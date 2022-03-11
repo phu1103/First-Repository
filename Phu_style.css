@@ -1,0 +1,38 @@
+
+img {
+    width: 5px;
+    margin: auto;
+    display: block;
+  }
+p {
+    border-style: dotted;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: blue;
+    margin-top: 15px;
+    margin-bottom: 15ox;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+h1{
+   color:  green; 
+   font-family: "Palantino"; 
+}
+h2 {
+    color:  pink;
+    font-family: "courier";
+}
+p.fancy{
+    border-style: solid;
+    border-color: orange;
+    background-color: lightblue;
+}
+
+p1{
+    font-family: "arial family", sans-serif;
+}
+
+
+
+
+
